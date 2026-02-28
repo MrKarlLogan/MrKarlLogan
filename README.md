@@ -8,7 +8,7 @@
 
 ## Социальные сети:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/igorberendeev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrndv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-berendeev-a971493a1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrCenturion) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Igor-Berendeev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:igorberendeev@yandex.ru) [![Jsitor](https://img.shields.io/badge/Jsitor-2C3E50?style=for-the-badge&logo=codepen&logoColor=white)](https://jsitor.com/profile/MrKarlLogan)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/igorberendeev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrndv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-berendeev-a971493a1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrCenturion) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Igor-Berendeev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:igorberendeev@yandex.ru)
 
 ## Стек технологий:
 
